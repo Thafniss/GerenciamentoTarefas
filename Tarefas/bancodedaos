@@ -1,0 +1,7 @@
+CREATE TABLE tarefa(
+    id int AUTO_INCREMENT PRIMARY KEY
+    descricao VARCHAR (255),
+    titulo VARCHAR(255),
+    prioridade varchar (255),
+    datavencimento (255)
+);
